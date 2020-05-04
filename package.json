@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "",
+  "scripts": {
+    "dev": "./node_modules/.bin/live-server --port=8090"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
